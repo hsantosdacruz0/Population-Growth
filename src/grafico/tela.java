@@ -484,6 +484,7 @@ public class tela extends javax.swing.JFrame {
                 datos.setValue("República Dominicana", 2.3);
                 datos.setValue("Uruguai", 0.4);
                 datos.setValue("venezuela", 2.8); 
+                
             }
             if (ano.equals("2000")) {
                
